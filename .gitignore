@@ -1,3 +1,9 @@
+# Assembly files
+*.s
+
+# Preprocessor files
+*.i
+
 # Prerequisites
 *.d
 
